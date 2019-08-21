@@ -2,3 +2,13 @@ body{
     background-color: black;
     color: #fff;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-container a {
+    margin:1em;
+}
